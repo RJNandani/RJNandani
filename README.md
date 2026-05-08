@@ -43,7 +43,7 @@ AI/ML Developer • Full Stack Engineer • Real-Time Systems Builder
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/raj-nandani-25017b321?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
