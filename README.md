@@ -169,13 +169,7 @@ AI/ML Developer • Full Stack Engineer • Real-Time Systems Builder
 
 <!-- ========================= SNAKE ========================= -->
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/RJNandani/RJNandani/output/snake.svg"/>
-</p>
-
----
 
 <!-- ========================= VISITOR ========================= -->
 
