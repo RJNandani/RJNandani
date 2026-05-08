@@ -150,7 +150,7 @@ Machine learning model that selects optimal sorting algorithms based on data cha
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=RJNandani&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
