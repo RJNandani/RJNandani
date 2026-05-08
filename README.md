@@ -35,10 +35,6 @@ AI/ML Developer • Full Stack Engineer • Real-Time Systems Builder
 
 ## 🤖 AI/ML & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 - Scikit-learn  
 - Pandas  
 - NumPy  
@@ -60,9 +56,9 @@ AI/ML Developer • Full Stack Engineer • Real-Time Systems Builder
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RJNandani&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RJNandani&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -70,7 +66,7 @@ AI/ML Developer • Full Stack Engineer • Real-Time Systems Builder
 # 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RJNandani&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -120,15 +116,7 @@ Machine learning model that selects optimal sorting algorithms based on data cha
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RJNandani&theme=tokyo-night"/>
 </p>
 
 ---
@@ -136,8 +124,12 @@ Machine learning model that selects optimal sorting algorithms based on data cha
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/raj-nandani-25017b321?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://twitter.com">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 
   <a href="mailto:officialrajnandani55@gmail.com">
